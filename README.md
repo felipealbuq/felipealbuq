@@ -1,7 +1,7 @@
 ## Olá, me chamo Felipe Albuquerque, atualmente sou desenvolvedor frontend e estudante de engenharia de telecomunicações no IFCE!
 <div align="startr"
   <a href="https://github.com/felipealbuq">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipea&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipealbuq&layout=compact&langs_count=7&theme=dracula"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipealbuq&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 <div style="display: inline_block"><br>
