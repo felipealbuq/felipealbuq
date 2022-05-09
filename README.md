@@ -1,4 +1,4 @@
-## Olá, me chamo Felipe, atualmente sou desenvolvedor frontend e estudante de engenharia de Telecomunicações no IFCE!
+## Olá, me chamo Felipe, atualmente sou desenvolvedor frontend e estagiário do Instituto Atlântico!
 <div align="startr"
   <a href="https://github.com/felipealbuq">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipealbuq&layout=compact&langs_count=7&theme=dracula"/>
