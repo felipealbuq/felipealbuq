@@ -1,4 +1,4 @@
-## Olá, me chamo Felipe, atualmente sou desenvolvedor e estagiário do Instituto Atlântico!
+## Olá, me chamo Felipe, atualmente atuo desenvolvedor FullStack!
 <div align="startr"
   <a href="https://github.com/felipealbuq">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipealbuq&layout=compact&langs_count=7&theme=dracula"/>
