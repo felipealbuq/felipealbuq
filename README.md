@@ -1,4 +1,4 @@
-## Hello, I'm Felipe! I currently work as a game developer and 3d artist.
+## Hello, I'm Felipe! I currently work as a game developer and 3D artist.
 
 <div style="display: inline_block"><br>
 <picture>
