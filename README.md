@@ -1,9 +1,7 @@
 ## Hello, I'm Felipe! I currently work as a game developer and 3D artist.
 
-<div style="display: inline_block"><br>
 ![snake gif](https://github.com/felipealbuq/felipealbuq/blob/output/github-contribution-grid-snake-dark.svg)
-</div>
-  
+
   ##
 
 <h3 align="left">Languages ​​and Tools that I use in my daily life:</h3>
