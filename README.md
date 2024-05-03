@@ -1,4 +1,4 @@
-## Hello, I'm Felipe! I currently work as a game developer and 3D artist.
+## Hello, I'm Felipe! I currently work as game developer and 3D artist.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
