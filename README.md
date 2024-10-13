@@ -12,7 +12,6 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Felipe-Unity" height="40" width="40" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg">
   <img align="center" alt="Felipe-Unreal" height="40" width="40" src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg">
-  <img align="center" alt="Felipe-ThreeJS" height="30" width="40" src="https://global.discourse-cdn.com/standard17/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png">
   <img align="center" alt="Felipe-Blender" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png">
   <img align="center" alt="Felipe-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Felipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
